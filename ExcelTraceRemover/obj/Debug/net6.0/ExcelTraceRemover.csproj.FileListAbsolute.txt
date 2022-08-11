@@ -1,0 +1,17 @@
+C:\Users\minchan\Desktop\ExcelTraceRemover\bin\Debug\net6.0\ExcelTraceRemover.exe
+C:\Users\minchan\Desktop\ExcelTraceRemover\bin\Debug\net6.0\ExcelTraceRemover.deps.json
+C:\Users\minchan\Desktop\ExcelTraceRemover\bin\Debug\net6.0\ExcelTraceRemover.runtimeconfig.json
+C:\Users\minchan\Desktop\ExcelTraceRemover\bin\Debug\net6.0\ExcelTraceRemover.dll
+C:\Users\minchan\Desktop\ExcelTraceRemover\bin\Debug\net6.0\ExcelTraceRemover.pdb
+C:\Users\minchan\Desktop\ExcelTraceRemover\obj\Debug\net6.0\ExcelTraceRemover.csproj.AssemblyReference.cache
+C:\Users\minchan\Desktop\ExcelTraceRemover\obj\Debug\net6.0\ExcelTraceRemover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minchan\Desktop\ExcelTraceRemover\obj\Debug\net6.0\ExcelTraceRemover.AssemblyInfoInputs.cache
+C:\Users\minchan\Desktop\ExcelTraceRemover\obj\Debug\net6.0\ExcelTraceRemover.AssemblyInfo.cs
+C:\Users\minchan\Desktop\ExcelTraceRemover\obj\Debug\net6.0\ExcelTraceRemover.csproj.CoreCompileInputs.cache
+C:\Users\minchan\Desktop\ExcelTraceRemover\obj\Debug\net6.0\ExcelTraceRemover.dll
+C:\Users\minchan\Desktop\ExcelTraceRemover\obj\Debug\net6.0\refint\ExcelTraceRemover.dll
+C:\Users\minchan\Desktop\ExcelTraceRemover\obj\Debug\net6.0\ExcelTraceRemover.pdb
+C:\Users\minchan\Desktop\ExcelTraceRemover\obj\Debug\net6.0\ExcelTraceRemover.genruntimeconfig.cache
+C:\Users\minchan\Desktop\ExcelTraceRemover\obj\Debug\net6.0\ref\ExcelTraceRemover.dll
+C:\Users\minchan\Desktop\ExcelTraceRemover\obj\Debug\net6.0\Interop.Shell32.dll
+C:\Users\minchan\Desktop\ExcelTraceRemover\obj\Debug\net6.0\ExcelTraceRemover.csproj.ResolveComReference.cache
