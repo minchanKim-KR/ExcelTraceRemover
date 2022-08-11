@@ -1,7 +1,7 @@
 # ExcelTraceRemover
 엑셀 흔적 제거 프로그램입니다.
 
-excel2016,2019에 호환 가능합니다.
+excel2016,2019에만 호환 가능합니다.
 
 1. 레지스트리의 FileMRU내의 데이터를 삭제합니다.
 2. windows,office의 Recent폴더의 바로가기 파일을 삭제합니다.
